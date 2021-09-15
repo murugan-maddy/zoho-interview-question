@@ -1,0 +1,4 @@
+There are 2 player they get their turn one after the other so the problem is to find which turn should the user should not select to get win
+
+ input- 1 1 1
+output- second
