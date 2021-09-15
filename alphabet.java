@@ -1,6 +1,6 @@
 import java.util.*;
 import java.lang.*;
- class Main
+ class alphabet
    {
     static void value(String a)
     {
